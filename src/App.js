@@ -8,7 +8,7 @@ import Header from "./Components/Header";
 import Punklist from "./Components/Punklist/Punklist";
 import Main from "./Components/Main/Main";
 
-// Axios  --for api req
+// Axios  --for api req from opensea
 import axios from "axios";
 
 function App() {
