@@ -1,2 +1,2 @@
-# React-nft-thirdWeb
+# react-nft
 Created with CodeSandbox
